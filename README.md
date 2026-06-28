@@ -1,4 +1,4 @@
-<h2 align="center">⋆˙⟡ hi, i'm sophi ⟡˙⋆</h2>
+<h2 align="center">⋆˙⟡ hi, i'm soph ⟡˙⋆</h2>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sowiwia&color=f5c2e7&style=flat"/>
@@ -15,10 +15,10 @@ Computer Science student @ <b>University of Buenos Aires</b> (FCEyN).<br/>
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 </p>
 
-<h2 align="center">💜 kato</h2>
+<h2 align="center">kato !!</h2>
 
 <p align="center">
-💜 <b><a href="https://katoqr.com.ar">Kato</a></b> — a SaaS platform that gives local businesses a real-time digital storefront,<br/>
+💜 <b><a href="https://katoqr.com.ar">kato</a></b> — a SaaS platform that gives local businesses a real-time digital storefront,<br/>
 letting them publish, update and manage their menus & catalogs from a single dashboard.<br/>
 🔗 <a href="https://katoqr.com.ar">katoqr.com.ar</a>
 </p>
