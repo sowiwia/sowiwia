@@ -11,26 +11,26 @@ Computer Science student @ <b>University of Buenos Aires</b> (FCEyN).<br/>
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 </p>
 
-<h2 align="center">✿ kato</h2>
+<h2 align="center">💜 kato</h2>
 
 <p align="center">
-🌷 <b><a href="https://katoqr.com.ar">Kato</a></b> — a SaaS platform that gives local businesses a real-time digital storefront,<br/>
+💜 <b><a href="https://katoqr.com.ar">Kato</a></b> — a SaaS platform that gives local businesses a real-time digital storefront,<br/>
 letting them publish, update and manage their menus & catalogs from a single dashboard.<br/>
 🔗 <a href="https://katoqr.com.ar">katoqr.com.ar</a>
 </p>
 
 <h4 align="center">📊 most used languages (kato)</h4>
 
-<p align="center">
-
-```text
+<table align="center">
+<tr><td>
+<pre>
 TypeScript   ████████████████████░░   90.5%
 JavaScript   █░░░░░░░░░░░░░░░░░░░░░░    4.6%
 CSS          █░░░░░░░░░░░░░░░░░░░░░░    2.6%
 PLpgSQL      █░░░░░░░░░░░░░░░░░░░░░░    2.3%
-```
-
-</p>
+</pre>
+</td></tr>
+</table>
 
 <h2 align="center">⋆ my skills ⋆</h2>
 
