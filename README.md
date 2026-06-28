@@ -85,7 +85,7 @@ PLpgSQL      █░░░░░░░░░░░░░░░░░░░░░�
 <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-cba6f7.svg?style=flat&logo=obsidian&logoColor=1e1e2e"></a>
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-89b4fa.svg?style=flat&logo=trello&logoColor=1e1e2e"></a>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-fab387.svg?style=flat&logo=ubuntu&logoColor=1e1e2e"></a>
-<a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=1e1e2e"></a>
+<a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-cba6f7.svg?style=flat&logo=slack&logoColor=1e1e2e"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-89dceb.svg?style=flat&logo=visual-studio-code&logoColor=1e1e2e"></a>
 </p>
 
