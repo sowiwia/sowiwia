@@ -8,15 +8,15 @@
     <img width="600" src="banner.gif" alt="banner"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sowiwia&theme=catppuccin_mocha&hide_border=true&background=FFFFFF00&ring=f5c2e7&fire=cba6f7&currStreakLabel=f5c2e7&sideLabels=f5c2e7&dates=cba6f7"/>
+</p>
+
 <h2 align="center">☕️ about me</h2>
 
 <p align="center">
 Computer Science student @ <b>University of Buenos Aires</b> (FCEyN).<br/>
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sowiwia&theme=catppuccin_mocha&hide_border=true&background=FFFFFF00&ring=f5c2e7&fire=cba6f7&currStreakLabel=f5c2e7&sideLabels=f5c2e7&dates=cba6f7"/>
 </p>
 
 <h2 align="center">kato !!</h2>
