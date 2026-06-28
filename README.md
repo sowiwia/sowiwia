@@ -8,7 +8,7 @@
 
 <p align="center">
 Computer Science student @ <b>University of Buenos Aires</b> (FCEyN).<br/>
-<i>computers, math and cats ⊹ ࣪ ˖</i>
+⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 </p>
 
 <h2 align="center">✿ kato</h2>
