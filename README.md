@@ -8,7 +8,7 @@
     <img width="600" src="banner.gif" alt="banner"/>
 </p>
 
-<h2 align="center">🩰 about me</h2>
+<h2 align="center">☕️ about me</h2>
 
 <p align="center">
 Computer Science student @ <b>University of Buenos Aires</b> (FCEyN).<br/>
