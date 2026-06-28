@@ -69,10 +69,7 @@ PLpgSQL      █░░░░░░░░░░░░░░░░░░░░░�
 <p align="center">
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-89b4fa.svg?style=flat&logo=numpy&logoColor=1e1e2e"></a>
 <a href="#"><img alt="pandas" src="https://img.shields.io/badge/pandas-cba6f7.svg?style=flat&logo=pandas&logoColor=1e1e2e"></a>
-<a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-89dceb.svg?style=flat&logo=scipy&logoColor=1e1e2e"></a>
-<a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-fab387.svg?style=flat&logo=scikit-learn&logoColor=1e1e2e"></a>
 <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-f5c2e7.svg?style=flat&logo=python&logoColor=1e1e2e"></a>
-<a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-b4befe.svg?style=flat&logo=python&logoColor=1e1e2e"></a>
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-fab387.svg?style=flat&logo=jupyter&logoColor=1e1e2e"></a>
 </p>
 
@@ -88,6 +85,7 @@ PLpgSQL      █░░░░░░░░░░░░░░░░░░░░░�
 <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-cba6f7.svg?style=flat&logo=obsidian&logoColor=1e1e2e"></a>
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-89b4fa.svg?style=flat&logo=trello&logoColor=1e1e2e"></a>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-fab387.svg?style=flat&logo=ubuntu&logoColor=1e1e2e"></a>
+<a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=1e1e2e"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-89dceb.svg?style=flat&logo=visual-studio-code&logoColor=1e1e2e"></a>
 </p>
 
