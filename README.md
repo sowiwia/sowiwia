@@ -4,6 +4,10 @@
     <img src="https://komarev.com/ghpvc/?username=sowiwia&color=f5c2e7&style=flat"/>
 </p>
 
+<p align="center">
+    <img width="600" src="banner.gif" alt="banner"/>
+</p>
+
 <h2 align="center">🩰 about me</h2>
 
 <p align="center">
@@ -54,6 +58,18 @@ PLpgSQL      █░░░░░░░░░░░░░░░░░░░░░�
 <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/Next.js-cdd6f4.svg?style=flat&logo=nextdotjs&logoColor=1e1e2e"></a>
 <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind-94e2d5.svg?style=flat&logo=tailwindcss&logoColor=1e1e2e"></a>
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-a6e3a1.svg?style=flat&logo=node.js&logoColor=1e1e2e"></a>
+</p>
+
+<h4 align="center">🔬 data & scientific</h4>
+
+<p align="center">
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-89b4fa.svg?style=flat&logo=numpy&logoColor=1e1e2e"></a>
+<a href="#"><img alt="pandas" src="https://img.shields.io/badge/pandas-cba6f7.svg?style=flat&logo=pandas&logoColor=1e1e2e"></a>
+<a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-89dceb.svg?style=flat&logo=scipy&logoColor=1e1e2e"></a>
+<a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-fab387.svg?style=flat&logo=scikit-learn&logoColor=1e1e2e"></a>
+<a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-f5c2e7.svg?style=flat&logo=python&logoColor=1e1e2e"></a>
+<a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-b4befe.svg?style=flat&logo=python&logoColor=1e1e2e"></a>
+<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-fab387.svg?style=flat&logo=jupyter&logoColor=1e1e2e"></a>
 </p>
 
 <h4 align="center">⚙ tools</h4>
