@@ -38,8 +38,6 @@ Computer Science student @ <b>University of Buenos Aires</b> (FCEyN).<br/>
 <a href="https://github.com/search?q=user%3Asowiwia+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-a6e3a1.svg?style=flat&logo=latex&logoColor=1e1e2e"></a>
 <a href="https://github.com/search?q=user%3Asowiwia+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-b4befe.svg?style=flat&logo=markdown&logoColor=1e1e2e"></a>
 <a href="https://github.com/search?q=user%3Asowiwia+language%3Asystemverilog"><img alt="SystemVerilog" src="https://custom-icon-badges.demolab.com/badge/SystemVerilog-89b4fa.svg?style=flat&logo=cpu&logoColor=1e1e2e"></a>
-<a href="https://github.com/search?q=user%3Asowiwia+language%3Aprolog"><img alt="Prolog" src="https://custom-icon-badges.demolab.com/badge/Prolog-f38ba8.svg?style=flat&logo=workflow&logoColor=1e1e2e"></a>
-<a href="https://github.com/search?q=user%3Asowiwia+language%3Aassembly"><img alt="Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-f2cdcd.svg?style=flat&logo=file-binary&logoColor=1e1e2e"></a>
 </p>
 
 <h4 align="center">📚 frameworks & libraries</h4>
@@ -68,7 +66,6 @@ Computer Science student @ <b>University of Buenos Aires</b> (FCEyN).<br/>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-fab387.svg?style=flat&logo=git&logoColor=1e1e2e"></a>
 <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-a6e3a1.svg?style=flat&logo=supabase&logoColor=1e1e2e"></a>
 <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-fab387.svg?style=flat&logo=cloudflare&logoColor=1e1e2e"></a>
-<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-cdd6f4.svg?style=flat&logo=vercel&logoColor=1e1e2e"></a>
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-89b4fa.svg?style=flat&logo=postgresql&logoColor=1e1e2e"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-89dceb.svg?style=flat&logo=mysql&logoColor=1e1e2e"></a>
 <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-cba6f7.svg?style=flat&logo=obsidian&logoColor=1e1e2e"></a>
